@@ -10,7 +10,11 @@ Currently learning **Python**, **Generative AI**, and Data Analytics to combine 
 - Data Analysis & MIS Reporting
 
 ### 📂 Projects
-*(Adding soon)*
+
+#### 1. Simple Calculator
+- A basic Python calculator supporting addition, subtraction, multiplication, and division.
+- Demonstrates use of functions (`def`), conditional statements (`if-elif-else`), and error handling.
+- [View Code → simple_calculator.py](simple_calculator.py)
 
 ### 🧰 Skills
 - Python (Beginner)
