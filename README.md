@@ -15,7 +15,7 @@ Currently learning **Python**, **Generative AI**, and Data Analytics to combine 
 - A programe that converts celsius to fahrenheit.
 - Celsius: water freezes at 0°C and boils at 100°C. This is the scale used in most of the world, including India.
 - Fahrenheit: water freezes at 32°F and boils at 212°F. This scale is mainly used in the US.
-- [View Code] (celsius_to_fahrenheit.py)
+- [celsius_to_fahrenheit.py]
 
 ### 🧰 Skills
 - Python (Beginner)
