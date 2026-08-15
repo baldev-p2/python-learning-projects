@@ -1,6 +1,6 @@
 # Baldev Purohit
 
-**Production Engineer (2.8+ years)** transitioning into **IT & Data Roles**.
+**Production Engineer (2.9 years)** transitioning into **IT & Data Roles**.
 
 Currently learning **Python**, **Generative AI**, and Data Analytics to combine my manufacturing domain knowledge with technical skills.
 
