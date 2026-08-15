@@ -11,10 +11,11 @@ Currently learning **Python**, **Generative AI**, and Data Analytics to combine 
 
 ### 📂 Projects
 
-#### 1. Simple Calculator
-- A basic Python calculator supporting addition, subtraction, multiplication, and division.
-- Demonstrates use of functions (`def`), conditional statements (`if-elif-else`), and error handling.
-- [View Code → simple_calculator.py](simple_calculator.py)
+#### 1. Convert Celsius to Fahrenheit
+- A programe that converts celsius to fahrenheit.
+- Celsius: water freezes at 0°C and boils at 100°C. This is the scale used in most of the world, including India.
+- Fahrenheit: water freezes at 32°F and boils at 212°F. This scale is mainly used in the US.
+- 
 
 ### 🧰 Skills
 - Python (Beginner)
