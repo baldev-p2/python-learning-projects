@@ -21,6 +21,10 @@ Currently learning **Python**, **Generative AI**, and Data Analytics to combine 
 - A programe that swap two variables without using temporary/third variable.
 - [View Code](swap_variables.py)
 
+#### 3. Multiplication Table Generator
+- A programe that creates a Multiplication Table for a given number.
+- [View Code](multiplication_table.py)
+
 ### 🧰 Skills
 - Python (Beginner)
 - Generative AI
