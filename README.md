@@ -17,6 +17,10 @@ Currently learning **Python**, **Generative AI**, and Data Analytics to combine 
 - Fahrenheit: water freezes at 32°F and boils at 212°F. This scale is mainly used in the US.
 - [View Code](celsius_to_fahrenheit.py)
 
+#### 2. Swap two vriables without third variable
+- A programe that swap two variables without using temporary/third variable.
+- [View Code](swap_variables.py)
+
 ### 🧰 Skills
 - Python (Beginner)
 - Generative AI
